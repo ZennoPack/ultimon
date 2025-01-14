@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:slurpuff",
+  "order": 222000,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:slurpuff",
+      "model": "ultimon:slurpuff.geo",
+      "texture": "ultimon:textures/pokemon/slurpuff/slurpuff.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/slurpuff/slurpuff_shiny.png"
+    }
+  ]
+}

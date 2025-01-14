@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:zangoose",
+  "order": 222000,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:zangoose",
+      "model": "ultimon:zangoose.geo",
+      "texture": "ultimon:textures/pokemon/zangoose/zangoose.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/zangoose/zangoose_shiny.png"
+    }
+  ]
+}
