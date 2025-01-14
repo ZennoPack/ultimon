@@ -1,0 +1,166 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.ult_corsola_spencer.ground_idle": {
+			"loop": true,
+			"animation_length": 2.5,
+			"bones": {
+				"ult_corsola_spencer": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"0.5833": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, 0, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"1.5833": [0, 0, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 1.5, 0],
+						"0.5833": [0, 1.5, 0],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, 1.5, 0],
+						"1.5833": [0, 1.5, 0],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					}
+				},
+				"golden_carrot": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.ult_corsola_spencer.ground_walk": {
+			"loop": true,
+			"animation_length": 2.0833,
+			"bones": {
+				"ult_corsola_spencer": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 10, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"0.5833": [0, 10, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, -10, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"1.5833": [0, -10, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 1.5, 0],
+						"0.5833": [0, 1.5, 0],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, 1.5, 0],
+						"1.5833": [0, 1.5, 0],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					}
+				},
+				"golden_carrot": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.ult_corsola_spencer.faint": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 2.885,
+			"bones": {
+				"ult_corsola_spencer": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"1.0": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-87.5"],
+						"1.125": [0, 2.5, -89]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 1.5, 0],
+						"1.0": [0, 4.5, 0]
+					}
+				},
+				"eyes": {
+					"rotation": [0, 0, 0]
+				},
+				"eye_right_closed": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 0, -0.02]
+					}
+				},
+				"eye_left_closed": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 0, -0.02]
+					}
+				},
+				"golden_carrot": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.ult_corsola_spencer.sleep": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"eye_right_closed": {
+					"position": [0, 0, -0.02]
+				},
+				"eye_left_closed": {
+					"position": [0, 0, -0.02]
+				},
+				"eye_right": {
+					"position": [0, 0, 0.01]
+				},
+				"eye_left": {
+					"position": [0, 0, 0.01]
+				},
+				"golden_carrot": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.ult_corsola_spencer.blink": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"eye_right_closed": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.125": [0, 0, -0.1],
+						"0.1875": [0, 0, 0]
+					}
+				},
+				"eye_left_closed": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.125": [0, 0, -0.1],
+						"0.1875": [0, 0, 0]
+					}
+				},
+				"eye_right": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.125": [0, 0, 0.01],
+						"0.1875": [0, 0, 0]
+					}
+				},
+				"eye_left": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.125": [0, 0, 0.01],
+						"0.1875": [0, 0, 0]
+					}
+				},
+				"golden_carrot": {
+					"scale": 0
+				}
+			}
+		}
+	}
+}

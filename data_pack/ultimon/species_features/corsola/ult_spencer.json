@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "ult_spencer"
+  ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}
