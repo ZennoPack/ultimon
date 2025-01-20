@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:guzzlord",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_guzzlord",
+      "model": "ultimon:ult_guzzlord.geo",
+      "texture": "ultimon:textures/pokemon/guzzlord/ult_guzzlord.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "ultimon:textures/pokemon/guzzlord/ult_guzzlord_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/guzzlord/ult_guzzlord_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "ultimon:textures/pokemon/guzzlord/ult_guzzlord_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

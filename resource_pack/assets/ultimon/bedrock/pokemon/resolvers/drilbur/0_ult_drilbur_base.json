@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:drilbur",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_drilbur",
+      "model": "ultimon:ult_drilbur.geo",
+      "texture": "ultimon:textures/pokemon/drilbur/ult_drilbur.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/drilbur/ult_drilbur_shiny.png"
+    }
+  ]
+}

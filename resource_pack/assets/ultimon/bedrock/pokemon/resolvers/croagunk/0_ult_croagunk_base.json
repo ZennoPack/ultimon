@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:croagunk",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_croagunk",
+      "model": "ultimon:ult_croagunk.geo",
+      "texture": "ultimon:textures/pokemon/croagunk/ult_croagunk.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/croagunk/ult_croagunk_shiny.png"
+    }
+  ]
+}

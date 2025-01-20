@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:toxicroak",
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
+  "baseScale": 1,
+  "hitbox": {
+    "width": 0.88,
+    "height": 1.8,
+    "fixed": false
+  }
+}

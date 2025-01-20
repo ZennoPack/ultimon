@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:capsakid",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_capsakid",
+      "model": "ultimon:ult_capsakid.geo",
+      "texture": "ultimon:textures/pokemon/capsakid/ult_capsakid.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/capsakid/ult_capsakid_shiny.png"
+    }
+  ]
+}

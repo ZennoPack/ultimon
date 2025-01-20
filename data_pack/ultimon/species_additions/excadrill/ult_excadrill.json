@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:excadrill",
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
+  "baseScale": 1.2,
+  "hitbox": {
+    "width": 1.15,
+    "height": 1.65,
+    "fixed": false
+  }
+}

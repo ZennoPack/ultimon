@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:scovillain",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_scovillain",
+      "model": "ultimon:ult_scovillain.geo",
+      "texture": "ultimon:textures/pokemon/scovillain/ult_scovillain.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/scovillain/ult_scovillain_shiny.png"
+    }
+  ]
+}

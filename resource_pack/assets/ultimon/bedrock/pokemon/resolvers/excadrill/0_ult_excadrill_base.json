@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:excadrill",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_excadrill",
+      "model": "ultimon:ult_excadrill.geo",
+      "texture": "ultimon:textures/pokemon/excadrill/ult_excadrill.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/excadrill/ult_excadrill_shiny.png"
+    }
+  ]
+}
