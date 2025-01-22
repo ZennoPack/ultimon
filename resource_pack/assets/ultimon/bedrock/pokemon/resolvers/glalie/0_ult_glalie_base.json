@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:glalie",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_glalie",
+      "model": "ultimon:ult_glalie.geo",
+      "texture": "ultimon:textures/pokemon/glalie/ult_glalie.png",
+      "layers": [
+        {}
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/glalie/ult_glalie_shiny.png",
+      "layers": [
+        {}
+      ]
+    }
+  ]
+}

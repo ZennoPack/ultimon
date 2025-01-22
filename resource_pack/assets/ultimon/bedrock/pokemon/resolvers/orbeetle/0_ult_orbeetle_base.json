@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:orbeetle",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_orbeetle",
+      "model": "ultimon:ult_orbeetle.geo",
+      "texture": "ultimon:textures/pokemon/orbeetle/ult_orbeetle.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "ultimon:textures/pokemon/orbeetle/ult_orbeetle_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/orbeetle/ult_orbeetle_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "ultimon:textures/pokemon/orbeetle/ult_orbeetle_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

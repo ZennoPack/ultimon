@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:froslass",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_froslass",
+      "model": "ultimon:ult_froslass.geo",
+      "texture": "ultimon:textures/pokemon/froslass/ult_froslass.png",
+      "layers": [
+        {}
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/froslass/ult_froslass_shiny.png",
+      "layers": [
+        {}
+      ]
+    }
+  ]
+}
