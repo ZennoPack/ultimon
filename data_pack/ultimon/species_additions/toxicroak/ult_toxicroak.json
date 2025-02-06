@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:toxicroak",
+  "implemented": true,
   "behaviour": {
     "resting": {
       "canSleep": true,

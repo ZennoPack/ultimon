@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:scovillain",
+  "implemented": true,
   "behaviour": {
     "resting": {
       "canSleep": true,

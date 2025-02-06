@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:deoxys",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_deoxys",
+      "model": "ultimon:ult_deoxys.geo",
+      "texture": "ultimon:textures/pokemon/deoxys/ult_deoxys.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/deoxys/ult_deoxys_shiny.png"
+    }
+  ]
+}

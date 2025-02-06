@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:haxorus",
+  "implemented": true,
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.23,
+        "canWalk": true
+      },
+      "swim": {
+        "swimSpeed": 0.1,
+        "canSwimInWater": false,
+        "canBreatheUnderwater": false
+      }
+    }
+  },
+  "baseScale": 0.73,
+  "hitbox": {
+    "width": 2.5,
+    "height": 4,
+    "fixed": false
+  }
+}

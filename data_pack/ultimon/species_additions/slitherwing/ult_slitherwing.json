@@ -1,0 +1,23 @@
+{
+  "target": "cobblemon:slitherwing",
+  "implemented": true,
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.15
+      }
+    }
+  },
+  "resting": {
+    "canSleep": true,
+    "willSleepOnBed": false,
+    "depth": "normal",
+    "light": "0-4"
+  },
+  "baseScale": 1.3,
+  "hitbox": {
+    "width": 2,
+    "height": 1.3,
+    "fixed": false
+  }
+}

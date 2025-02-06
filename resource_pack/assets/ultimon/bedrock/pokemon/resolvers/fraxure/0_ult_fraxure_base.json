@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:fraxure",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_fraxure",
+      "model": "ultimon:ult_fraxure.geo",
+      "texture": "ultimon:textures/pokemon/fraxure/ult_fraxure.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/fraxure/ult_fraxure_shiny.png"
+    }
+  ]
+}

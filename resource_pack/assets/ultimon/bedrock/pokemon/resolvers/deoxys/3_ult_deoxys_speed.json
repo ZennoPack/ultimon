@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:deoxys",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "speed-forme"
+      ],
+      "poser": "ultimon:deoxys_speed",
+      "model": "ultimon:deoxys_speed.geo",
+      "texture": "ultimon:textures/pokemon/deoxys/ult_deoxys_speed.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "speed-forme",
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/deoxys/ult_deoxys_speed_shiny.png"
+    }
+  ]
+}

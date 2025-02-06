@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:ironbundle",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_ironbundle",
+      "model": "ultimon:ult_ironbundle.geo",
+      "texture": "ultimon:textures/pokemon/ironbundle/ult_ironbundle.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "ultimon:textures/pokemon/ironbundle/ult_ironbundle_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/ironbundle/ult_ironbundle_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "ultimon:textures/pokemon/ironbundle/ult_ironbundle_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

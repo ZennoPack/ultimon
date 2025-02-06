@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:drilbur",
+  "implemented": true,
   "behaviour": {
     "resting": {
       "canSleep": true,
