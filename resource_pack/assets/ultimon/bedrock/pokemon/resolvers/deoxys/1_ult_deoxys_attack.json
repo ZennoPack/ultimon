@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:deoxys",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "attack-forme"
+      ],
+      "poser": "ultimon:ult_deoxys_attack",
+      "model": "ultimon:ult_deoxys_attack.geo",
+      "texture": "ultimon:textures/pokemon/deoxys/ult_deoxys_attack.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "attack-forme",
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/deoxys/ult_deoxys_attack_shiny.png"
+    }
+  ]
+}

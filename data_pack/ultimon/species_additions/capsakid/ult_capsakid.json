@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:capsakid",
+  "implemented": true,
   "shoulderMountable": true,
   "behaviour": {
     "resting": {

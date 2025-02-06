@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:volcanion",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_volcanion",
+      "model": "ultimon:ult_volcanion.geo",
+      "texture": "ultimon:textures/pokemon/volcanion/ult_volcanion.png",
+      "layers": [
+        {}
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/volcanion/ult_volcanion_shiny.png",
+      "layers": [
+        {}
+      ]
+    }
+  ]
+}

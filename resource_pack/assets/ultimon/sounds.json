@@ -1,0 +1,42 @@
+{
+  "pokemon.deoxys.cry": {
+    "sounds": [
+      "ultimon:pokemon/deoxys/deoxys"
+    ]
+  },
+  "pokemon.ironbundle.cry": {
+    "sounds": [
+      "ultimon:pokemon/ironbundle/ironbundle"
+    ]
+  },
+  "pokemon.slitherwing.cry": {
+    "sounds": [
+      "ultimon:pokemon/slitherwing/slitherwing"
+    ]
+  },
+  "pokemon.axew.cry": {
+    "sounds": [
+      "ultimon:pokemon/axew/axew"
+    ]
+  },
+  "pokemon.fraxure.cry": {
+    "sounds": [
+      "ultimon:pokemon/fraxure/fraxure"
+    ]
+  },
+  "pokemon.haxorus.cry": {
+    "sounds": [
+      "ultimon:pokemon/haxorus/haxorus"
+    ]
+  },
+  "pokemon.noibat.cry": {
+    "sounds": [
+      "ultimon:pokemon/noibat/noibat"
+    ]
+  },
+  "pokemon.noivern.cry": {
+    "sounds": [
+      "ultimon:pokemon/noivern/noivern"
+    ]
+  }
+}

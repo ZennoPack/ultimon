@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:slitherwing",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_slitherwing",
+      "model": "ultimon:ult_slitherwing.geo",
+      "texture": "ultimon:textures/pokemon/slitherwing/ult_slitherwing.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/slitherwing/ult_slitherwing_shiny.png"
+    }
+  ]
+}

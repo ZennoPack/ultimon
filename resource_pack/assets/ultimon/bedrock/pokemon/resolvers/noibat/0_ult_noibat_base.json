@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:noibat",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_noibat",
+      "model": "ultimon:ult_noibat.geo",
+      "texture": "ultimon:textures/pokemon/noibat/ult_noibat.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/noibat/ult_noibat_shiny.png"
+    }
+  ]
+}

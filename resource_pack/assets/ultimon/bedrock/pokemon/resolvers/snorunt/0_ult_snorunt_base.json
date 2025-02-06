@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:snorunt",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_snorunt",
+      "model": "ultimon:ult_snorunt.geo",
+      "texture": "ultimon:textures/pokemon/snorunt/ult_snorunt.png",
+      "layers": [
+        {}
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "ultimon:textures/pokemon/snorunt/ult_snorunt_shiny.png",
+      "layers": [
+        {}
+      ]
+    }
+  ]
+}

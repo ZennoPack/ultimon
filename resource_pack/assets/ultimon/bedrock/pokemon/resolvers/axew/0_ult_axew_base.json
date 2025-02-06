@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:axew",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_axew",
+      "model": "ultimon:ult_axew.geo",
+      "texture": "ultimon:textures/pokemon/axew/ult_axew.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/axew/ult_axew_shiny.png"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:croagunk",
+  "implemented": true,
   "behaviour": {
     "resting": {
       "canSleep": true,

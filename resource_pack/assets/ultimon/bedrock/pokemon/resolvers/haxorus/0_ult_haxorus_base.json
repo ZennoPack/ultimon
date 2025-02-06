@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:haxorus",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_haxorus",
+      "model": "ultimon:ult_haxorus.geo",
+      "texture": "ultimon:textures/pokemon/haxorus/ult_haxorus.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/haxorus/ult_haxorus_shiny.png"
+    }
+  ]
+}

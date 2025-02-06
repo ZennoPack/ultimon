@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:noivern",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "ultimon:ult_noivern",
+      "model": "ultimon:ult_noivern.geo",
+      "texture": "ultimon:textures/pokemon/noivern/ult_noivern.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "ultimon:textures/pokemon/noivern/ult_noivern_shiny.png"
+    }
+  ]
+}
